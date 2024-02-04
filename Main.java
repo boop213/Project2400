@@ -22,7 +22,7 @@ public class Main {
       plural[3]="quarters";
       String[] singular = new String [4];
       singular[0]="penny";
-      singular[1]="nickelss";
+      singular[1]="nickels";
       singular[2]="dime";
       singular[3]="quarter";
       for (int k=3;k>0;k--){
